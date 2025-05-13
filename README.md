@@ -17,7 +17,7 @@ Build a simple local network using Cisco Packet Tracer and a physical Ethernet p
 
 ### 📁 Files Included
 - `Lab2-Jeremy-Rivera.pkt`: Packet Tracer file with two-PC switch network
-- `topology-screenshot.png`: Screenshot of network topology
+- `lab 2 succesful ping and model.png`: Screenshot of network topology
 - `ping-results.png`: Screenshot showing successful ping
 
 ### 🚀 How to Open
